@@ -1,0 +1,33 @@
+.input-group{
+   margin-left: 10px;
+}
+.btn-update, .btn-delete{
+   
+   padding: 10px;
+   border-radius: 3px;
+   color: white !important;
+   margin-right: 8px;
+   margin-top: 2px;
+   margin-bottom: 2px;
+}
+.btn-update{
+   background-color: #3379FF;
+   float: left;
+}
+.btn-delete{
+   background-color: #FF5733;
+}
+.table-container{
+   margin: auto;
+   width:80%;
+   padding: 30px;
+   margin-top: 150px;
+}
+.table-row{
+   background-color: #EFEFEF;
+}
+#users-list{
+   color: white;
+   margin-bottom:40px;
+   text-decoration: underline;
+}
